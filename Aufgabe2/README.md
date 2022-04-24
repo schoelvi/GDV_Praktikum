@@ -44,7 +44,7 @@ Before using our project, please make sure you have downloaded and installed all
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Our programm is supposed to count objects. Out of many multicoloured chewing gum balls our programm is surposed to count all the blue chewing gum balls. We will be counting the blue chewing gum balls in several known pictures and also in several unknown pictures. If you want to test your picture, you must put it in the folder images in our project.
+Our programm is supposed to count objects. Out of many multicoloured chewing gum balls our programm is surposed to count all the blue chewing gum balls. We will be counting the blue chewing gum balls in several known pictures and also in several unknown pictures. If you want to test your picture, you must put it in the images folder in our project.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
